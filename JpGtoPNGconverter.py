@@ -17,6 +17,6 @@ for filename in os.listdir(image_folder):
     print('alldone!')
 
 
-
+#save the images in one folder and enter it as cmd argument to create  final png images in a new folder 
 
 
